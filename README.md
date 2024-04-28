@@ -51,7 +51,7 @@
 
 <p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abubakarrrr&show_icons=true&locale=en&layout=compact" alt="abubakarrrr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abubakarrrr&show_icons=true&locale=en&layout=compact"  /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abubakarrrr&show_icons=true&locale=en" alt="abubakarrrr" /></p>
 
